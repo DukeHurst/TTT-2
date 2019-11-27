@@ -6,9 +6,9 @@ if SERVER then
 end
 
 function ROLE:PreInitialize()
-	self.color = Color(137, 17, 237, 255)
-	self.dkcolor = Color(17, 69, 200, 255)
-	self.bgcolor = Color(255, 157, 72, 255)
+	self.color = Color(38, 116, 128, 255)
+	self.dkcolor = Color(29, 99, 110, 255)
+	self.bgcolor = Color(41, 138, 153, 255)
 	self.abbr = "watc"
 	self.scoreKillsMultiplier = 1
 	self.scoreTeamKillsMultiplier = -8
