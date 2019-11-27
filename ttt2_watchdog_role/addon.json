@@ -1,0 +1,14 @@
+{
+	"title" :	"ttt2_watchdog",
+	"type"  :	"ServerContent",
+	"tags"  :	["fun","realism"],
+	"ignore":
+	[
+		"*.cmd",
+		"*.ini",
+		"*.lnk",
+		"*.url",
+		"ttt2_watchdog.jpg",
+		"ttt2_watchdog.png"
+	]
+}
